@@ -1,0 +1,60 @@
+/* .loginCadastro {
+
+    background-color: #ffffff;
+    padding: 20px;
+    margin: -400px 0 0 -240px;
+    position: absolute;
+    top: 90%;
+    left: 60%;
+    border: 100px;
+    border-radius: 10px;
+    justify-content: center;
+
+} */
+
+
+.form input {
+    width: 250px;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Courier Bold;
+    width: 100%;
+
+}
+
+
+
+.form h1 {
+    text-align: center;
+    color: rgb(73, 68, 68);
+    font-family: Courier Bold;
+
+}
+
+.form button {
+    border: none;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(73, 68, 68);
+    font-family: Courier Bold;
+}
+
+.form label {
+    font-family: Courier Bold;
+    color: rgb(73, 68, 68);
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(0, 30, 128), rgba(234, 0, 255, 0.855));
+    padding: 30px;
+
+
+}
+
+h1 {
+    text-align: center;
+}
