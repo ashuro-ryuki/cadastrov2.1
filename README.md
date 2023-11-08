@@ -1,13 +1,13 @@
-## introdução e funcionalidades
+## Introdução e funcionalidades
 A tela de cadastro foi aprimorada em relação às versões anteriores. Agora, o campo de CEP é preenchido automaticamente ao ser inserido. Além disso, foi adicionado um novo campo o de endereço, com base no estudo de outras telas de cadastro. Essas melhorias tornam o cadastro mais rápido e fácil.
 
-parte 1
+Parte 1
 ![casdastro-end](cadastroP1.png)
 
-parte 2(cep)
+Parte 2(cep)
 
 ![CEP](CEP.gif)
-## informações de Cadastro (Spotify, Instagram, Amazon)
+## Informações de Cadastro (Spotify, Instagram, Amazon)
 
 Estas são as informações necessárias e opcionais retiradas dos processos de cadastro do Spotify, Instagram e Amazon:
 Nome Completo: Necessário em todas as plataformas.
@@ -39,9 +39,9 @@ Observação: Requisitos específicos podem variar conforme a região e os termo
 
 ## Mas qual o motivo para essas informações serem exencias para a aplicação?
 simples pelo engajamento dentro das plataformas e após a criação de algoritmos essas informações pedidas como idade pais e sexo são todas para oferecer uma melhor experiência dentro desses mesmos aplicativos, tambem para poder identificação dos usuarios.
-## colaboradores
+## Colaboradores
 [**Miguel Silva LSuciano**](https://github.com/miguelitto16)
-## tecnologias ultilizadas
+## Tecnologias ultilizadas
 
  • **Github**
  
