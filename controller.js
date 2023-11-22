@@ -67,7 +67,7 @@ const validarSenha = () => {}
 const pesquisarCep = async () => {
     limparFormulario();
     const cep = document.getElementById('cep').value;
-    const url = `http://viacep.com.br/ws/${cep}/json/`;
+    const url = `https://viacep.com.br/ws/${cep}/json/`;
 
     if (cepValido(cep)) {
         try {
